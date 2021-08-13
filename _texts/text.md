@@ -58,5 +58,4 @@ We haven't decided what the next steps are for this manifesto, whether to mainta
 4. Nowviskie, Bethany. ‘Digital Humanities in the Anthropocene’. Digital Scholarship in the Humanities 30, no. suppl_1 (1 December 2015): i4–15. https://doi.org/10.1093/llc/fqv015.  
 5. Pendergrass, Keith, Walker Sampson, Tim Walsh, and Laura Alagna. ‘Toward Environmentally Sustainable Digital Preservation’. The American Archivist, June 2019. https://doi.org/10.17723/0360-9081-82.1.165.
 6. Supran, Geoffrey, and Naomi Oreskes. ‘Rhetoric and Frame Analysis of ExxonMobil’s Climate Change Communications’. One Earth 4, no. 5 (21 May 2021): 696–719. https://doi.org/10.1016/j.oneear.2021.04.014.
-7. Whitmarsh, Lorraine, Wouter Poortinga, and Stuart Capstick. ‘Behaviour Change to Address Climate Change’. Current Opinion in Psychology 42 (1 December 2021): 76–81. https://doi.org/10.1016/j.copsyc.2021.04.002.
-{.bibliography}
+7. Whitmarsh, Lorraine, Wouter Poortinga, and Stuart Capstick. ‘Behaviour Change to Address Climate Change’. Current Opinion in Psychology 42 (1 December 2021): 76–81. https://doi.org/10.1016/j.copsyc.2021.04.002. {:.bibliography}

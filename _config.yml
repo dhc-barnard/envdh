@@ -4,8 +4,8 @@
 title:               Digital Humanities and the Climate Crisis
 tagline:             'a manifesto'
 description:         'foregrounding the climate crisis within digital humanities work'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+url:                 'https://dhc-barnard.github.io'
+baseurl:             ''
 
 # About/contact
 author:
@@ -19,7 +19,6 @@ color-scheme:
 # Permalinks
 permalink: pretty
 permalink: /:title/
-
 # Set encoding to UTF-8
 encoding: utf-8
 
