@@ -5,7 +5,7 @@ title:               Digital Humanities and the Climate Crisis
 tagline:             'a manifesto'
 description:         'foregrounding the climate crisis within digital humanities work'
 url:                 'https://dhc-barnard.github.io'
-baseurl:             ''
+baseurl:             'envdh'
 
 # About/contact
 author:

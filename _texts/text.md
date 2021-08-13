@@ -52,10 +52,4 @@ We haven't decided what the next steps are for this manifesto, whether to mainta
 
 
 ## Bibliography
-1. Bender, Emily M, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. ‘On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?’, 2021, 14. https://doi.org/10.1145/3442188.3445922.  
-2. Caset, Freke, Kobe Boussauw, and Tom Storme. ‘Meet & Fly : Sustainable Transport Academics and the Elephant in the Room’. JOURNAL OF TRANSPORT GEOGRAPHY 70 (2018): 64–67. https://doi.org/10.1016/j.jtrangeo.2018.05.020. 
-3. Liboiron, Max. Pollution Is Colonialism. Durham, N.C.: Duke University Press, 2021.  
-4. Nowviskie, Bethany. ‘Digital Humanities in the Anthropocene’. Digital Scholarship in the Humanities 30, no. suppl_1 (1 December 2015): i4–15. https://doi.org/10.1093/llc/fqv015.  
-5. Pendergrass, Keith, Walker Sampson, Tim Walsh, and Laura Alagna. ‘Toward Environmentally Sustainable Digital Preservation’. The American Archivist, June 2019. https://doi.org/10.17723/0360-9081-82.1.165.
-6. Supran, Geoffrey, and Naomi Oreskes. ‘Rhetoric and Frame Analysis of ExxonMobil’s Climate Change Communications’. One Earth 4, no. 5 (21 May 2021): 696–719. https://doi.org/10.1016/j.oneear.2021.04.014.
-7. Whitmarsh, Lorraine, Wouter Poortinga, and Stuart Capstick. ‘Behaviour Change to Address Climate Change’. Current Opinion in Psychology 42 (1 December 2021): 76–81. https://doi.org/10.1016/j.copsyc.2021.04.002. {:.bibliography}
+  {% include bibliography.html %}
