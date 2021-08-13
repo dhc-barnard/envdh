@@ -11,6 +11,7 @@ This manifesto emerged from a collective desire to foreground the climate crisis
 - Madiha Zahrah Choksi
 - Ana Lam
 - Alicia Peaker
+- Walter Scholger
 
 This text is published under a [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/). ![logo for CC0 license](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
