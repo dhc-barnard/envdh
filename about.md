@@ -9,9 +9,11 @@ This manifesto emerged from a collective desire to foreground the climate crisis
 - Anne Baillot
 - James Baker
 - Madiha Zahrah Choksi
+- Alex Gil
 - Ana Lam
 - Alicia Peaker
 - Walter Scholger
+- Torsten Roeder
 
 This text is published under a [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/). ![logo for CC0 license](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
