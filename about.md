@@ -13,6 +13,7 @@ This manifesto emerged from a collective desire to foreground the climate crisis
 - Ana Lam
 - Alicia Peaker
 - Torsten Roeder
+- Jo Lindsay Walton
 
 This text is published under a [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/). ![logo for CC0 license](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
