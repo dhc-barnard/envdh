@@ -4,24 +4,15 @@ title: Digital Humanities and the Climate Crisis
 ---
 
 ## Preamble
-    
-This manifesto emerged from a collective desire to foreground the climate crisis within digital humanities work.
-We are a collection of digital humanists, in varying positions and career stages, from the Caribbean, Europe, and U.S., working within well-resourced institutions in the U.S. and Europe.
-We are not experts in the consequences of climate change. And we are not those currently most directly impacted by the consequences of climate change.
-But we know that as individuals and as a community we contribute to the climate crisis, and we believe that with the world on the brink of catastrophe the digital humanities has a responsibility to act. 
+ 
+With the world in a slow-moving catastrophe digital humanists have a responsibility to foreground the climate crisis in our research, our infrastructure, and our daily practice. This document has two purposes. First, to help find us find each other—to connect, encourage, and support the ways we are already responding to the global climate crisis. Second, to focus and re-energize our communities on the obligations of scholars to the planet.
 
-This document is necessarily incomplete and insufficient, but we hope that it furthers conversations happening throughout digital humanities communities about our environmental impacts and responsibilities.
-Part of the purpose of creating this document is to find each other—to connect, encourage, and support the ways we are already responding to the global climate crisis. 
-
-We'd love for you to contribute to this document.
-You can do so by selecting the menu on the left and using the "Annotate" feature to make suggestions, comments, or revisions.
-We also welcome contributions via Github. 
+We'd love for you to contribute to this document. You can do so by selecting the menu on the left and using the "Annotate" feature to make suggestions, comments, or revisions. We also welcome contributions via Github. 
     
 ## Some Contexts
 
 The digital is material.
 As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment.
-In this document we aim to surface the ecological impacts of our work while learning with and from our DH community about ways to reduce harm to the environment and to the people most impacted by environmental injustices.
 
 As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries which underpin sustainable solutions.
 In particular, given the concentrated nature of the global tech sector, and the economic, cultural, and scientific power wielded by companies such as Apple, Alphabet, Amazon, Facebook, Microsoft, Tencent, and Tesla, our use of their resources should be informed by a broad range of factors
@@ -43,15 +34,16 @@ At the very least it should be, not least as it is seven years since Bethany Now
 As a community we have responded.
 DH practitioners are advancing knowledge of historic and ongoing environmental oppression (e.g. Schuyler Esprit and Oonya Kempadoo's [Carisealand](https://carisealand.org/), GO-DH's [Minimal Computing](https://go-dh.github.io/mincomp/), **PLEASE SUGGEST PROJECTS HERE**).  
 
-At the same time, this manifesto asks if our research could do more to resist the environmental emergency, and to do so in ways that complement DH's anti-colonial and feminist identity/ambition/presentation.
-We might ask if we've done enough to resist the perceived ethereality of the digital, when the reality is stuff, power, and pollution.
-We might ask if we've done enough to investigate how much inconvenience users will accept in return for getting their digital objects in less carbon intensive ways, which users they are, and how that matters.
-We might ask if we've done enough to highlight the power consumption of some forms of play (e.g. a GPU attached Colab notebook) and to advocate for mitigations (e.g. energy-efficient programming practices).
-We might even ask whether our power consumption - set against all power consumption - even matters at all, is even worth worrying about, irrespective of the optics of us declaring that it doesn't matter (Whitmarsh et al, 2021).
+At the same time, our research could do more to resist the environmental emergency, and to do so in ways that complement DH's anti-colonial and feminist identity/ambition/presentation.
+We can do more to resist the perceived ethereality of the digital, when the reality is stuff, power, and pollution.
+We can do more to investigate how much inconvenience users will accept in return for getting their digital objects in less carbon intensive ways, which users they are, and how that matters.
+We can do more to highlight the power consumption of some forms of play (e.g. a GPU attached Colab notebook) and to advocate for mitigations (e.g. energy-efficient programming practices).
+We can do more to understand how to distinguish between choices that matter and those that don't (Whitmarsh et al, 2021).
 Or we might - and probably should - ask other questions we haven't thought of.
 The point is that a manifesto like this cannot be just about practices adjacent to research, it should also be about the research we choose to do.
 Our research can play its part.
 And to do that, we must shift points of inquiry.
+
 
 ## The Places We Go
 
@@ -76,12 +68,29 @@ Hybrid concepts are being developed and should be implemented in upcoming DH con
 Even more broadly, environmental crisis invites us to fundamentally reimagine how academic communities are embodied across time and space.
 It invites rigorous analysis and transformation of the conference, the workshop, the symposium, the meeting, the seminar, the tutorial, the lecture, the exam, the roundtable, the reading group, the performance, the exhibition, the sandpit, the hackathon, the jam, the sprint, the picket line, and many other forms that we use to collectively organize; it invites us to innovate new institutions and procedures that embed the values of ecological and social justice.
 
+## Our other communities
+
+Digital Humanists play an important role in brokering between traditional disciplines and emerging discourses around technology, AI, and media.
+
+In this role, we must work to address the climate crisis not just in the digital humanities, but in all our scholarly communities.
+This includes:
+
+1. Critiquing the energy usage not just of novel electronic devices, but of the hotel stays, travel, paper waste and the general fetishization of the physical in the traditional humanities.
+2. Finding ways to use technology to reduce air and automobile travel for conferences, talks, and meetings.
+3. Building strong, local communities of intellectual engagement that reduce perceived need to travel long distances.
+4. Finding ways to improve discourse around costs to promote interventions with impact, and to avoid greenwashing.
+
 
 ## Possible Next Steps
 
 We haven't decided what the next steps are for this manifesto, whether to maintain it as a live document, to publish it as grey literature, to submit a version of it to a journal regularly visited by the DH community, or a combination of the three.
 Equally, there may be options we just haven't thought of, and we welcome suggestions.
 Whatever happens to the manifesto, we'd hope that all contributors will consider themselves co-authors, and that as the manifesto develops credit goes to all who've contributed to its gestation.
+
+## About us
+
+We are a collection of digital humanists, in varying positions and career stages, from the Caribbean, Europe, and U.S., working within well-resourced institutions in the U.S. and Europe.
+We are not experts in the consequences of climate change. And we are not those currently most directly impacted by the consequences of climate change.
 
 ## The Perspectives We Think We Are Missing
 
