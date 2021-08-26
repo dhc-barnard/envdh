@@ -9,7 +9,7 @@ This manifesto emerged from a collective desire to foreground the climate crisis
 
 This document is necessarily incomplete and insufficient, but we hope that it furthers conversations happening throughout digital humanities communities about our environmental impacts and responsibilities. Part of the purpose of creating this document is to find each other—to connect, encourage, and support the ways we are already responding to the global climate crisis. 
 
-We'd love for you to contribute to this document. You can do so by selecting the menu on the left and using the "Annotate" feature to make suggestions, comments, or revisions. We also welcome contributions via [Github](https://github.com/dhc-barnard/envdh). 
+We'd love for you to contribute to this document. You can do so by selecting the menu on the left and using the "Annotate" feature to make suggestions, comments, or revisions. We also welcome contributions via [Github](https://github.com/dhc-barnard/envdh/tree/gh-pages). 
     
 ## Some Contexts
 
