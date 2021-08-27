@@ -25,7 +25,7 @@ As a community we have responded. DH practitioners are advancing knowledge of hi
 
 At the same time, this manifesto asks if our research could do more to resist the environmental emergency, and to do so in ways that complement DH's anti-colonial and feminist identity/ambition/presentation. We might ask if we've done enough to resist the perceived ethereality of the digital, when the reality is stuff, power, and pollution. We might ask if we've done enough to investigate how much inconvenience users will accept in return for getting their digital objects in less carbon intensive ways, which users they are, and how that matters. We might ask if we've done enough to highlight the power consumption of some forms of play (e.g. a GPU attached Colab notebook) and to advocate for mitigations (e.g. energy-efficient programming practices). We might even ask whether our power consumption - set against all power consumption - even matters at all, is even worth worrying about, irrespective of the optics of us declaring that it doesn't matter (Whitmarsh et al, 2021). Or we might - and probably should - ask other questions we haven't thought of. The point is that a manifesto like this cannot be just about practices adjacent to research, it should also be about the research we choose to do. Our research can play its part. And to do that, we must shift points of inquiry.
 
-## The  Places We Go
+## The Places We Go
 
 Like other research communities, digital humanists are scattered around the globe. Functioning as a community on a global scale requires us to use means of communication and mobility that have impacts on the environment. This concerns the equipment needed for email, audio and videoconferences, but also traveling for workshops, conferences and congresses. While the multitude of scholarly events that are being organized is in dire need of a systemic revision at a much larger scale, we as a community need to reconsider not simply the amount of travels we undertake, but the way we conceive and implement scholarly gatherings likely to have an important environmental footprint (Caset et al, 2018)
 
@@ -50,7 +50,7 @@ We haven't decided what the next steps are for this manifesto, whether to mainta
 - Networking and High-Performance Computing in DH
 - ...
 
-## Co-authors (in alphabetical order)
+## Who we Are (in alphabetical order)
 - Anne Baillot
 - James Baker
 - Madiha Zahrah Choksi
@@ -66,5 +66,3 @@ We haven't decided what the next steps are for this manifesto, whether to mainta
   {% include bibliography.html %}
   
 This text is published under a [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/). ![logo for CC0 license](http://i.creativecommons.org/p/zero/1.0/88x31.png)
-
-This edition was customized from Alex Gil's [Ed](https://github.com/minicomp/ed) theme for Jekyll, which uses [minimal computing principles](https://go-dh.github.io/mincomp/about/) to keep the website's digital footprint as light as possible. This website is published through Github which is carbon neutral, but currently uses a mix of non-renewable and renewable energy. Read more about Github's [sustainability efforts](https://github.blog/2021-04-22-environmental-sustainability-github/). 
