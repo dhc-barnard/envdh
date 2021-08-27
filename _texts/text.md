@@ -50,7 +50,7 @@ We haven't decided what the next steps are for this manifesto, whether to mainta
 - Networking and High-Performance Computing in DH
 - ...
 
-## Who we Are (in alphabetical order)
+## Who We Are (in alphabetical order)
 - Anne Baillot
 - James Baker
 - Madiha Zahrah Choksi
