@@ -3,6 +3,8 @@ layout: page
 title: Digital Humanities and the Climate Crisis
 ---
 
+*This document is the first published draft of the manifesto. A new and final version, which incorporates community comments and feedback, is available at [https://dhc-barnard.github.io/dhclimate/](https://dhc-barnard.github.io/dhclimate/). This draft remains up to preserve the original annotations.* 
+
 ## Preamble
     
 This manifesto emerged from a collective desire to foreground the climate crisis within digital humanities work.
